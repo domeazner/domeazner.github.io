@@ -1,11 +1,11 @@
 # Site settings
-author: Dominc Carolan
-title: 
+author: Dominic Carolan
+title: Software Engineering From Zero to Hero
 header-img: img/home-bg.png
 email: dominiccarolan@gmail.com
-copyright_name: Dominc Carolan
+copyright_name: Dominic Carolan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A walkthrough my software engineering journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  domeazner
